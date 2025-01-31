@@ -1,1 +1,4 @@
-test case2
+2 Test case title: some title
+3 Steps to reproduce: 1,2,3
+4
+5 test case2
